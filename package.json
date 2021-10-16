@@ -1,0 +1,30 @@
+{
+  "name": "unit10hw",
+  "version": "1.0.0",
+  "description": "OOP and testing for week 10 homework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindsfitz/team-profile-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/lindsfitz/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/lindsfitz/team-profile-generator#readme"
+}
