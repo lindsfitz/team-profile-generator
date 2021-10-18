@@ -119,7 +119,7 @@ function addIntern() {
         /* ADD GENERATED INTERN TO AN ARRAY */
         teamMembers.push(intern);
 
-        console.log(`Your manager, ${res.name}, has been added!`);
+        console.log(`Your intern, ${res.name}, has been added!`);
 
         //and I am taken back to the menu
         menu();
