@@ -40,6 +40,10 @@
 ## Testing
 
 The application includes jest testing in the 'test' folder of the repo. 
+
+Application passing current tests:
+
+[Screencastify Testing Video](https://drive.google.com/file/d/1qAaYzTQcKkVSv4m_K9UBA4YaUMG71JdI/view)
       
 
 
